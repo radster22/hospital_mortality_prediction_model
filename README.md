@@ -35,3 +35,9 @@ pandas, numpy (data preprocessing)
 scikit-learn (modeling, evaluation)
 
 matplotlib, seaborn (visualization)
+
+## 📈 Results Visualization
+
+Example ROC curve comparison between model and baseline:
+
+<img width="702" height="547" alt="3201b2d5-3335-4cb5-867d-498de1b8b887" src="https://github.com/user-attachments/assets/f0f25c80-e49f-47eb-bfaf-f99b0d620412" />
